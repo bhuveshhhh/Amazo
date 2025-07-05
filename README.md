@@ -42,7 +42,7 @@ This is a static front-end clone and does not include backend functionality such
 The project is intended for learning and showcasing front-end skills.
 
 🧑‍💻 Author
-Your Name: Bhuvesh
+Name: Bhuvesh
 
 📄 License
 This project is licensed under the MIT License.
